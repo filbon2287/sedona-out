@@ -1217,7 +1217,7 @@ input[type="radio"].visually-hidden {
 	box-sizing: border-box;
 	
     position: absolute;
-    bottom: 0;
+    bottom: 0;  /* Commentary 25 */
 	
 	background-color: rgba(255, 255, 255, 0.9);
 }
@@ -1225,3 +1225,4 @@ input[type="radio"].visually-hidden {
 /* Commentary 21 */
 
 /* Commentary 23 */
+
